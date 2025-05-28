@@ -1,2 +1,5 @@
 1. git status
-2. git add [files] // тут нужно заменить файлами которые мы хотим добавить 
+2. git add [files] - добавляет файлы в stage
+3. git commit -m "comment"
+4. git log / git log --oneline
+5. git push [rep_link] [branch_name]
